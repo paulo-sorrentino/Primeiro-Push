@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Git Lab</title>
-		<link rel="stylesheet" href="../PhpStudy/bootstrap-3.1.1/css/bootstrap.css" >
+		<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">	
 	</head>
 	<body>
 
