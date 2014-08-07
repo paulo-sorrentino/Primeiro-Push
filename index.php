@@ -17,6 +17,7 @@
 			Git Lab
 			<div class="well"> Seja bem-vindo!</div>
 			<h4><a href="http://www.facebook.com">Eu vou para o Facebook!</a></h4>
+			Já fui e já voltei!!
 		</div>
 	</div>
 	<div class="row">
