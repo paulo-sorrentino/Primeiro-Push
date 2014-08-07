@@ -21,7 +21,8 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12">
-			Isto é um teste!
+			<p>Isto é um teste!</p>
+			<div class="alert"><a href="http://www.google.com">Eu vou para o Google</a></div>
 		</div>
 	</div>
 	</body>
