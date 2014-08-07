@@ -22,8 +22,10 @@
 	</div>
 	<div class="row">
 		<div class="col-lg-12">
-			<p>Primeiro push!</p>
-			<div class="alert"><a href="http://www.google.com.br">Eu vou para o Google!!</a></div>
+<div class="alert alert-dismissable alert-info">
+  <button type="button" class="close" data-dismiss="alert">×</button>
+  <strong>Aviso!</strong> Novo release do sistema - 0.1.1.
+</div>
 		</div>
 	</div>
 	</body>
