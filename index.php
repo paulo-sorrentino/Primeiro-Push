@@ -15,6 +15,7 @@
 			<div class="jumbotron">
 
 			Git Lab
+			<div class="well"> Seja bem-vindo!</div>
 		</div>
 	</div>
 	<div class="row">
