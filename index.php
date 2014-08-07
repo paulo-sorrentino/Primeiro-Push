@@ -22,7 +22,7 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<p>Isto é um teste!</p>
-			<div class="alert"><a href="http://www.google.com">Eu vou para o Google</a></div>
+			<div class="alert"><a href="http://www.google.com.br">Eu vou para o Google</a></div>
 		</div>
 	</div>
 	</body>
