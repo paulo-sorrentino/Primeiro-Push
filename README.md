@@ -5,3 +5,8 @@
 * git checkout link
 
 * git push origin link
+
+
+### Atualização
+
+* 24/05/2022 - Removido arquivo `index.php`
